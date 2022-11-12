@@ -1,0 +1,49 @@
+.montana{
+    border: 9px solid #3c9214;
+    width: 800px;
+    height: 700px;
+    border-radius: 22px;
+   margin-left: 25%;
+   background-color: rgb(20, 17, 17);
+   margin-top: 15px;
+
+
+}
+
+#container {
+    border: 5px solid green;
+    margin-left: 400px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color:#ffff00eb ;
+    
+}
+
+
+.king {
+    background-color: #ffff00eb;
+    
+}
+
+.major {
+    position: relative;
+    bottom: 300px;
+    
+}
+
+input {
+    border-radius: 10px;
+    background-color: #e8b3dfeb;
+    color: black;
+}
+
+.calculate {
+    background-color: #3c9214;
+    color: white;
+    border-radius: 0px;
+}
+
+#clear {
+background-color: red;
+color: white;
+}
